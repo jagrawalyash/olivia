@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.healthAndFitness.UploadFile.StorageProperties",
+      "name": "storage",
+      "type": "com.example.healthAndFitness.UploadFile.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.healthAndFitness.UploadFile.StorageProperties",
+      "name": "storage.location",
+      "type": "java.lang.String"
+    }
+  ]
+}
